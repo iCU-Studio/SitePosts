@@ -1,6 +1,7 @@
 # ICU Studio Posts
 A repo for storing markdown files for posts/tutorials on the website
-Our [Discord server](https://discord.gg/HqbqGp2YZ4)
+
+[Join Our Discord server](https://discord.gg/HqbqGp2YZ4)
 
 ## How to contirbute
 1. Ask any of our officer to add you to this repository
