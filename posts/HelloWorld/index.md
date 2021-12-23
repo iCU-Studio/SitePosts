@@ -61,7 +61,7 @@ int main()
 
 [Links to our Github](https://www.github.com/ICU-Studio)
 
-![bg1](./assets/img/bg1.jpeg)
+![bg1](https://cdn.jsdelivr.net/gh/ICU-Studio/SitePosts/posts/HelloWorld/assets/img/bg1.jpeg)
 
 
 
