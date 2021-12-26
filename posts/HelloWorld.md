@@ -62,9 +62,9 @@ ___emphasized___
     * Item 3c
 ---
 ## Paragraphs
-> Inline Quote
+> This is an inline quote
 
-> ## This is a header.
+> ## This is a block quote header.
 > 
 > 1.   This is the first list item.
 > 2.   This is the second list item.
@@ -74,7 +74,9 @@ ___emphasized___
 >     return shell_exec("echo $input | $markdown_script");
 
 [This is a link to our Github Organization](https://www.github.com/ICU-Studio)
+
 ---
+
 ## Codes
 This is a `printf("inline code")`
 ```cpp
@@ -83,5 +85,43 @@ int main(void) {
 }
 ```
 ---
-## Images
-![img1](https://cdn.jsdelivr.net/gh/ICU-Studio/SitePosts/posts/HelloWorld/assets/img/bg1.jpeg)
+## Mathematics
+**Inline Math:**
+
+Mass–energy Equivalence Equation: $E = mc^2$
+
+Pythagorean Theorem: $a^2 + b^2 = c^2$
+
+Point-slope Form: $y - y_1 = m(x - x_1)$
+
+**Block Math**
+
+Quadratic Formula:
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+Summations:
+$$
+\sum_{i = 1}^{n}{(\bar{x} - x_i)^2}
+$$
+
+Bayes Rule:
+$$
+Pr(\theta | y) = \frac{Pr(y | \theta) Pr(\theta)}{Pr(y)}
+$$
+
+$$
+Pr(\theta | y) \propto Pr(y | \theta) Pr(\theta)
+$$
+
+Linear Model:
+$$
+Y \sim X\beta_0 + X\beta_1 + \epsilon
+$$
+
+$$
+\epsilon \sim N(0,\sigma^2)
+$$
+
+
