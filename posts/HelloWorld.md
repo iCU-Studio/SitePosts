@@ -60,6 +60,13 @@ ___emphasized___
     * Item 3a
     * Item 3b
     * Item 3c
+
+**Task List**
+- [ ] Task1
+- [x] Task2
+- [ ] Task3
+  - [ ] SubTask1
+  - [ ] SubTask2
 ---
 ## Paragraphs
 > This is an inline quote
