@@ -3,7 +3,7 @@ A repo for storing markdown files for posts/tutorials on the website
 
 [Join Our Discord server](https://discord.gg/HqbqGp2YZ4)
 
-## How to contirbute
+## How to contribute
 1. Ask any of our officer to add you to this repository
 2. Use `git clone https://github.com/ICU-Studio/SitePosts.git` to clone this repo to your local machine
 3. Checkout a new branch and create a new markdown file in `/posts/` for your post
