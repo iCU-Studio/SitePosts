@@ -1,0 +1,23 @@
+{
+  "name": "siteposts",
+  "version": "1.0.0",
+  "description": "A repo for storing markdown files for posts/tutorials on the website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node yamlParser/parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCU-Studio/SitePosts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml":"^4.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iCU-Studio/SitePosts/issues"
+  },
+  "homepage": "https://github.com/iCU-Studio/SitePosts#readme"
+}
