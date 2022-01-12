@@ -14,7 +14,7 @@ Please add a **YAML front-matter** with the following format:
 ```markdown
 ---
 title: (Post title)
-link:(url of your project)
+link: (url of your project)
 date: (Date created)
 author: (Your name)
 tags: (optional)
