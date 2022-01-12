@@ -13,6 +13,7 @@ A repo for storing markdown files for posts/tutorials on the website
 Please add a **YAML front-matter** with the following format:
 ```markdown
 ---
+url: (URL towards your project)
 title: (Post title)
 date: (Date created)
 author: (Your name)
