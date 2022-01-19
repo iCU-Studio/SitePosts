@@ -24,5 +24,5 @@ tags: (optional)
 ---
 ```
 
-For an example implementation, see [example.md](https://github.com/iCU-Studio/SitePosts/blob/main/posts/Website.md)
+For an example implementation, see [example](https://github.com/iCU-Studio/SitePosts/blob/main/posts/Website.md)
 
