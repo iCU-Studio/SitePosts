@@ -4,10 +4,6 @@ date: 2021-12-19
 author: RiverNotHere
 tags:
  - Test
-isTutorial: false
-serie: 
-previousTutorial: 
-nextTutorial: 
 ---
 
 # Hello World
