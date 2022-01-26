@@ -14,7 +14,7 @@ Please add a **YAML front-matter** with the following format:
 ```markdown
 ---
 title: (Post title)
-date: (Date created)
+date: (Date created, format: yyyy-mm-dd)
 author: (Your name)
 tags: (optional)
     - tag1
