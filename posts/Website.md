@@ -1,7 +1,7 @@
 ---
 title: iCU-Studio Website
 abbr: website
-date: Dec 18, 2021
+date: 2021-12-18
 author: RiverNotHere
 tags:
     - HTML
